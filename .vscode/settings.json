@@ -1,0 +1,6 @@
+{
+    "dart.allowAnalytics": false,
+    "files.autoSave": "afterDelay",
+    "dart.flutterAndroidX": true,
+    "dart.sdkPath": null
+}
